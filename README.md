@@ -4,7 +4,7 @@
 <p><em>Software Enginner at <a href="http://ideaonic.com/">Ideaonic</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Twitter: ammariqbal](https://img.shields.io/twitter/follow/@Ammar1274?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: ammariqbal](https://img.shields.io/twitter/follow/@Ammar1274?style=social)](https://twitter.com/Ammar1274)
 [![Linkedin: ammariqbal](https://img.shields.io/badge/-ammariqbal127-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ammariqbal127/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Ammar127](https://img.shields.io/github/followers/Ammar127?label=follow&style=social)](https://github.com/Ammar127)
 
