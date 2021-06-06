@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h2> Hi, I'm Ammar Iqbal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/l0WCSEg7VEOLE4mUEb/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://ideaonic.com/">Ideaonic</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
