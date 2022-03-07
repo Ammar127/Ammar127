@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2> Hi, I'm Ammar Iqbal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/l0WCSEg7VEOLE4mUEb/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://ideaonic.com/">Nextbridge (Pvt.) Ltd.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Software Enginner at <a href="https://nextbridge.com">Nextbridge (Pvt.) Ltd.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![Twitter: @Ammar1274](https://img.shields.io/twitter/follow/Ammar1274?style=social)](https://twitter.com/Ammar1274)
